@@ -1,0 +1,252 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="FuSoYDIJ23jUAYMfqSMC">
+    <mxGraphModel dx="4919" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;User Registration&lt;/font&gt;&lt;div style=&quot;font-size: 20px; line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;amp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px; line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Authentication&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="50" width="721" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dashboard Overview&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="239" y="50" width="718" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cloud Subscription&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;line-height: 170%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Management&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="50" width="520" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Cost Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="50" width="740" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Register for an account&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;line-height: 140%; font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;&amp;amp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 140%; font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;User Profile Management&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="200" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-10" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Password Management&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-253" y="200" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-11" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Account&amp;nbsp; Security&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="200" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-12" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View Subscription Summary&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-15" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View Notification Alerts&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="490" y="200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-16" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Graphical Representation of Usage&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="738" y="200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-18" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Add New Cloud Subscriptions&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="200" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-19" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Manage Existing Subscriptions&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1277" y="200" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-20" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Set Budget Limits&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-21" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View Detailed Billing Reports&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-22" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Identify Cost Saving Opportunities&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="200" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-521" y="360" as="sourcePoint" />
+            <mxPoint x="2299" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Release 1 - MVP&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-714" y="240" width="540" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Sign up with email &amp;amp; password&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="398" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-28" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Login with email &amp;amp; password&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="521" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Update personal information&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="641" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-30" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Delete account&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="762" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-31" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Password reset via email&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-253" y="399" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-32" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Password strength&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-253" y="521" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-33" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Update Password&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-253" y="641" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-35" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Setup Multi Factor Authentication&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="400" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-36" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Monitor login activity&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="521" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-37" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Receive alerts for suspicious activity&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="641" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-38" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Account lockout after failed attempts&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="762" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-39" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Access quick links to services&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-40" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View usage stats&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="521" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-41" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View recent activity&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="239" y="641" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-42" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;See total monthly expenditure&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="240" y="762" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-43" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;See Billing Alerts&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="491" y="398" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-44" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Manage Notification settings&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="492" y="521" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-45" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View Alert history&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="491" y="641" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-46" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View interactive graphs and charts&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="738" y="398" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-47" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; Compare historical data&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="738" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-48" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Integrate with cloud providers&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-49" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Provide API keys for integration&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-50" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Select subscription plan&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="641" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-51" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;List all subscriptions with details&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1277" y="398" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-52" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Modify Subscription settings&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1277" y="520" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-53" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Initiate Subscription cancellation&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="641" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-54" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View usage statistics for subscriptions&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="761" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-55" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Set monthly budget limits&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="400" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-56" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Set yearly budget limits&lt;/span&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="521" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-57" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Receive alerts when nearing budget limits&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="641" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-58" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Breakdown of charges by services&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="400" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-59" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Export billing reports in PDF/Excel&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-60" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-520" y="909" as="sourcePoint" />
+            <mxPoint x="2300" y="909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Release 2&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="874" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-62" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Sign up with SSO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="960" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-63" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Login with SSO&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="1080" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-64" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Change language preferences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-521" y="1200" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-65" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Manage security questions&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-66" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Add widgets to dashboard&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="239" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-67" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Remove widgets from dashboard&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="239" y="1080" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-68" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Filter usage data by service&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="738" y="960" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-69" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Export usage reports&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="738" y="1080" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-70" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Receive confirmation of subscription&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="761" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-71" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Dynamic scaling of resources&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="960" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-72" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Receive alerts for subscription changes&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1080" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-73" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Handle outstanding charges&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1200" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-75" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;View historical billing data&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1820" y="960" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-76" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Compare pricing plans&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="400" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-77" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Analyse usage patterns&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="520" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-78" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="320" as="sourcePoint" />
+            <mxPoint x="2320" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2400" y="320" />
+              <mxPoint x="2400" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-79" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;strokeColor=#3399FF;fontSize=20;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2310" y="1280" as="sourcePoint" />
+            <mxPoint x="2320" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2400" y="1280" />
+              <mxPoint x="2400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-80" value="&lt;div style=&quot;text-align: center; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;User Tasks&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2440" y="220" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-81" value="&lt;div style=&quot;text-align: center; font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 20px;&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;User Stories&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2440" y="641" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-82" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Train Models to provide cost saving recommendations&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="1080" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-83" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Forecast future cloud costs using AI&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="960" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-84" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;Analyse usage patterns&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2100" y="540" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JOcVLLiCnd_2Db5mniKp-85" value="&lt;p style=&quot;line-height: 140%; font-size: 20px;&quot;&gt;Detect Anomalies&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="490" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
