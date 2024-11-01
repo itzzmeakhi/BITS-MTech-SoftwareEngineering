@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Page-1" id="iKMHpBTZccuoiVZicEc-">
+    <mxGraphModel dx="1715" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NUMykL-d5suyoaZxklMG-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="104" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="815" as="sourcePoint" />
+            <mxPoint x="120" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="720" as="sourcePoint" />
+            <mxPoint x="120" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="115" y="170" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ecommerce Application&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.416;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-8" target="NUMykL-d5suyoaZxklMG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-10" target="NUMykL-d5suyoaZxklMG-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-20" target="NUMykL-d5suyoaZxklMG-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="220" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="89" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="183" as="sourcePoint" />
+            <mxPoint x="315" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124" y="252" as="sourcePoint" />
+            <mxPoint x="314" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Register ()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Login ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Account&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-78" target="NUMykL-d5suyoaZxklMG-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="290" width="10" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="319.5" as="sourcePoint" />
+            <mxPoint x="556" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Verify_user ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-43" target="NUMykL-d5suyoaZxklMG-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="556" y="280" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-27" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Product&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="80" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-45" target="NUMykL-d5suyoaZxklMG-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="720" as="sourcePoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-33" value="" style="endArrow=none;html=1;rounded=0;startSize=35;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="346" as="sourcePoint" />
+            <mxPoint x="566" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="346" as="sourcePoint" />
+            <mxPoint x="650" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-41" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Check_account()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="566" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-58" target="NUMykL-d5suyoaZxklMG-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-43" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="385" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-56" target="NUMykL-d5suyoaZxklMG-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="720" as="sourcePoint" />
+            <mxPoint x="810" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="805" y="390" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="565" y="407.1199999999999" as="sourcePoint" />
+            <mxPoint x="805.0000000000002" y="407.1199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Get_product_info ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Order&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="80" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-50" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Payment&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="80" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="720" as="sourcePoint" />
+            <mxPoint x="1080" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="715" as="sourcePoint" />
+            <mxPoint x="1340" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="720" as="sourcePoint" />
+            <mxPoint x="810" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="805" y="450" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-59" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-62" target="NUMykL-d5suyoaZxklMG-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="460" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="477.07" as="sourcePoint" />
+            <mxPoint x="565" y="477.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Display_product_info ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="442" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-63" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-74" target="NUMykL-d5suyoaZxklMG-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="533" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-62" target="NUMykL-d5suyoaZxklMG-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="600" as="sourcePoint" />
+            <mxPoint x="800" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buy_product ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="513" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="720" as="sourcePoint" />
+            <mxPoint x="1080" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="498" width="10" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="529" as="sourcePoint" />
+            <mxPoint x="1075" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Place_order ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="488" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1340" y="715" as="sourcePoint" />
+            <mxPoint x="1340" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="472" width="10" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-66" target="NUMykL-d5suyoaZxklMG-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="500" as="sourcePoint" />
+            <mxPoint x="1330" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Process_payment ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="488" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-75" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-80" target="NUMykL-d5suyoaZxklMG-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-74" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="600" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="635" as="sourcePoint" />
+            <mxPoint x="325" y="635.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-77" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Display_order_information ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="590" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-79" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="720" as="sourcePoint" />
+            <mxPoint x="320" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="680" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-81" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" target="NUMykL-d5suyoaZxklMG-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="556" y="685" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="NUMykL-d5suyoaZxklMG-80" target="NUMykL-d5suyoaZxklMG-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="450" as="sourcePoint" />
+            <mxPoint x="750" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NUMykL-d5suyoaZxklMG-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Logout ()&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="661" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
