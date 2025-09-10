@@ -1,0 +1,7 @@
+Web Resources: 
+1)	https://jenkins.io/
+2)	https://xebialabs.com/solutions/devops/
+3)	https://www.ibm.com/ibm/devops/us/en/casestudies/#all
+4)	https://git-scm.com/
+5)	https://hub.docker.com/
+6)	https://www.atlassian.com/git/tutorials/comparing-workflows
