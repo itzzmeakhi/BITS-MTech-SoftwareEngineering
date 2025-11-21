@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: aceestfitness-deployment
+  labels:
+    app: aceestfitness
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: aceestfitness
+  template:
+    metadata:
+      labels:
+        app: aceestfitness
+    spec:
+      containers:
+      - name: aceestfitness
+        image: itzzmeakhi/aceestfitness:0.1.0
+        ports:
+        - containerPort: 5000
+        readinessProbe:
+          httpGet:
+            path: /
+            port: 5000
+          initialDelaySeconds: 10
+          periodSeconds: 5
+        livenessProbe:
+          httpGet:
+            path: /
+            port: 5000
+          initialDelaySeconds: 15
+          periodSeconds: 10
